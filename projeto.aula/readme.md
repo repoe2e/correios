@@ -15,8 +15,12 @@ Antes de executar os testes, é necessário configurar o ambiente de desenvolvim
 - Maven
 - Git
 
+- Realizar as configurações de variáveis de ambiente 
+
 ## Instalação e Execução
 
 Siga os passos abaixo para instalar e executar os testes:
 
 1. Clone o repositório para o seu ambiente local:
+2. Navegue até a raiz do projeto e executando o comaneto: mvn test -Dtest=Executa.java
+
